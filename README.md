@@ -1,6 +1,6 @@
-# Knapsack Problem Solved - Hill Climbing Algorithm
+# Knapsack
 
-In this notebook the a search algorithm is applied for solving the knapsack problem, wherein one must decide which items to be packed based on a given list containing each item's weight and values. For solving this issue the hill climbing optizimization algorithm was applied using the mlrose library.
+In the notebooks presented here two different search algorithms were applied for solving the problem of choosing items to pack based on their weights and values, the knapsack problem. For accomplishing such objective, the optimization algorithms hill climbing and simulated annealing were implemented through the mlrose library and compared based on their fitness.
 
 The data used may be acessed on:
 
